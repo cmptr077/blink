@@ -1,4 +1,4 @@
-// 20131330 ÀÌ¿¹ÈÆ, 2018.03.08
+// 20131330 Yehoon Lee, 2018.03.08
 
 #include "Arduino.h"
 #include "Blink.h"
